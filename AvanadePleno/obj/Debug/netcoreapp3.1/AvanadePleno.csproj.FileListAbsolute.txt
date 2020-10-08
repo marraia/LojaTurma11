@@ -1,0 +1,13 @@
+C:\_test\AvanadePleno\AvanadePleno\bin\Debug\netcoreapp3.1\AvanadePleno.exe
+C:\_test\AvanadePleno\AvanadePleno\bin\Debug\netcoreapp3.1\AvanadePleno.deps.json
+C:\_test\AvanadePleno\AvanadePleno\bin\Debug\netcoreapp3.1\AvanadePleno.runtimeconfig.json
+C:\_test\AvanadePleno\AvanadePleno\bin\Debug\netcoreapp3.1\AvanadePleno.runtimeconfig.dev.json
+C:\_test\AvanadePleno\AvanadePleno\bin\Debug\netcoreapp3.1\AvanadePleno.dll
+C:\_test\AvanadePleno\AvanadePleno\bin\Debug\netcoreapp3.1\AvanadePleno.pdb
+C:\_test\AvanadePleno\AvanadePleno\obj\Debug\netcoreapp3.1\AvanadePleno.csprojAssemblyReference.cache
+C:\_test\AvanadePleno\AvanadePleno\obj\Debug\netcoreapp3.1\AvanadePleno.AssemblyInfoInputs.cache
+C:\_test\AvanadePleno\AvanadePleno\obj\Debug\netcoreapp3.1\AvanadePleno.AssemblyInfo.cs
+C:\_test\AvanadePleno\AvanadePleno\obj\Debug\netcoreapp3.1\AvanadePleno.csproj.CoreCompileInputs.cache
+C:\_test\AvanadePleno\AvanadePleno\obj\Debug\netcoreapp3.1\AvanadePleno.dll
+C:\_test\AvanadePleno\AvanadePleno\obj\Debug\netcoreapp3.1\AvanadePleno.pdb
+C:\_test\AvanadePleno\AvanadePleno\obj\Debug\netcoreapp3.1\AvanadePleno.genruntimeconfig.cache
