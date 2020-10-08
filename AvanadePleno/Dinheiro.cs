@@ -16,8 +16,5 @@ namespace AvanadePleno
         {
             Data = DateTime.Now;
         }
-
-
-
     }
 }

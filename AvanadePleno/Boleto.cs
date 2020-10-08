@@ -20,12 +20,7 @@ namespace AvanadePleno
         public void GerarBoleto()
         {
             Numero = Guid.NewGuid();
-            DataVencimento = DateTime.Now.AddDays(5);
-        }
-
-        public override void Pagar()
-        {
-            base.Pagar();
+            DataVencimento = DateTime.Now.AddDays(-1);
         }
 
         public void CalcularJurosVencimento()
