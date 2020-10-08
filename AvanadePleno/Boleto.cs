@@ -23,6 +23,11 @@ namespace AvanadePleno
             DataVencimento = DateTime.Now.AddDays(5);
         }
 
+        public override void Pagar()
+        {
+            base.Pagar();
+        }
+
         public void CalcularJurosVencimento()
         {
             var taxa = Valor * 0.05;
